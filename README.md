@@ -1,4 +1,4 @@
-# Signin-Signup Website
+# Signin-Signup Template
 
 This project is a basic signin/signup website template built using Node.js, Express, EJS, and MongoDB.
 It provides a simple user authentication system with integrated JSON Web Tokens (JWT) for session management.
